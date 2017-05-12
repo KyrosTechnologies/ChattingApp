@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">Chatting App</string>
+
+    <!--exit notification-->
+    <string name="press_again_exit_app">Press again to exit</string>
+
+    <!-- Settings for Notifications Setting -->
+
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie.  Fusce quis mauris a enim sollicitudin</string>
+    <!--dont edit-->
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+
+    <string name="tab_friends">FRIENDS</string>
+    <string name="tab_chats">CHATS</string>
+    <string name="tab_groups">GROUPS</string>
+
+</resources>
